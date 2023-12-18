@@ -1,0 +1,30 @@
+.header {
+    padding: 10px 20px;
+    background-color: #6dc6ef;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header>nav {
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 30px;
+}
+
+.header >nav #logo {
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #6dc6ef;
+    color: white;
+}
+.header >nav ul {
+    font-size: 20px;
+    gap: 20px;
+    list-style: none;
+    color: azure;
+    display: flex;
+
+}

@@ -1,0 +1,27 @@
+.AllFlex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    padding: 20px 10px;
+}
+.AllFlex button{
+    padding: 10px 22px;
+    background-color: #5d6ff3;
+    border: none;
+    outline: none;
+    color:white;
+    border-radius: 5%;
+    cursor: pointer;
+
+}
+.AllFlex #btn2{
+    padding: 10px 22px;
+    background-color: #5dcbf3;
+    border: none;
+    outline: none;
+    color:white;
+    border-radius: 5%;
+    cursor: pointer;
+
+}
